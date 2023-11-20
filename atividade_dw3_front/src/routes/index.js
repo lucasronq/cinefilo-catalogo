@@ -54,7 +54,7 @@ export default function Layout() {
           {!moveForm ? (
             <form class="form form-login">
               <h2 class="form-title">Bem Vindo!</h2>
-              <p class="form-text">utilize sua cadastro</p>
+              <p class="form-text">utilize seu cadastro</p>
               <div class="form-input-cadastroiner">
                 <input
                   onChange={handleChange}

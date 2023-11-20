@@ -41,7 +41,7 @@ export default function Series() {
                 search: `?id=${serie.id}`,
               }}
             >
-              Ver Detalhes
+              Alterar
             </Link>
           </div>
         </div>
